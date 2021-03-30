@@ -28,7 +28,7 @@ Once you've created a pull request, you can push commits from your topic branch 
 
 Other contributors can review your proposed changes, add review comments, contribute to the pull request discussion, and even add commits to the pull request.
 
-{% if currentVersion == "free-pro-team@latest" %}
+{% if currentVersion == }
 You can see information about the branch's current deployment status and past deployment activity on the "Conversation" tab. For more information, see "[Viewing deployment activity for a repository](/articles/viewing-deployment-activity-for-your-repository)."
 {% endif %}
 
